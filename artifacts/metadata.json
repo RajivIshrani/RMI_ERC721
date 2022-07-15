@@ -1,0 +1,20 @@
+{
+  "description": "Rj's NFT", 
+  "external_url": "https://rajivishrani.github.io/portfolio-rajiv/", 
+  "image": "https://ipfs.filebase.io/ipfs/Qmexinufx1EqDMTjGaAGQ2dFma2uMZLr5PpXBM3Y7CySFN", 
+  "name": "ERC721 RJ",
+  "attributes": [ 
+    {
+    "trait_type": "Coolness", 
+    "value": "A Lot"
+  }, 
+  {
+    "trait_type": "Website", 
+    "value": "https://rajivishrani.github.io/portfolio-rajiv/"
+  }, 
+  {
+    "trait_type": "Token Standerd", 
+    "value": "ERC721"
+  }
+ ]
+}
